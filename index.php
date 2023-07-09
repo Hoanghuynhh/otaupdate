@@ -1,3 +1,9 @@
+<?PHP
+/*Chương trình cập nhật firmwave qua internet cho phần cứng
+Writer: Dao Nguyen
+Email: daonguyen20798@gmail.com
+Phone: 0394733311
+*/
 $VS = "2_0"; //mã phiên bản
     
 header('Content-type: text/plain; charset=utf8', true);
